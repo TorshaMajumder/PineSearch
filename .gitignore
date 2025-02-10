@@ -1,0 +1,4 @@
+ztf_oids/
+.venv/
+.DS_Store
+.ipynb_checkpoints
