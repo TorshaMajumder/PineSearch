@@ -2,3 +2,7 @@ ztf_oids/
 .venv/
 .DS_Store
 .ipynb_checkpoints
+
+figures/non-SNe.png
+figures/SN-PhotRed-Final-app_mag.png
+figures/SN-SpecRed-Final-app_mag.png
